@@ -1,7 +1,5 @@
 # oauth2
 
-# oauth2
-
 * Para utilizar o H2, basta descomentar as configs do H2 e comentar as do postgres em application.properties
 
 * Para utilizar o banco postgres, basta descomentar e comentar as configs do H2
